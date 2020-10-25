@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Echo App</string>
+    <string name="action_settings">Settings</string>
+    <string name="please_type_text">Please type in text here</string>
+    <string name="please_enter_text_to_copy">Please enter text to copy</string>
+    <string name="default_text">Hadassah R.\'s Attempt at Echo App</string>
+</resources>
